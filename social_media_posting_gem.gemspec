@@ -1,12 +1,11 @@
 Gem::Specification.new do |spec|
   spec.name          = 'social_media_posting_gem'
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.3"
   spec.authors       = ['Lakhveer Singh Rajput']
   spec.email         = ['rajputlakhveer@gmail.com']
   spec.summary       = %q{A gem for social media posting}
   spec.description   = %q{A gem for posting content to Facebook and Instagram}
-  spec.homepage      = "https://github.com/yourusername/social_media_posting"
-  spec.license       = "MIT"
+  spec.homepage      = "https://github.com/rajputlakhveer/social_media_posting"
 
   # Add dependencies
   spec.add_runtime_dependency 'httparty', '>= 0.18.1'
